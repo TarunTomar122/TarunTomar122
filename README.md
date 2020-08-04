@@ -13,7 +13,7 @@
 
 - Mail me at **tomartarun2001@gmail.com**
 
-- ⚡ Fun fact **I can't speak Clingon!**
+- ⚡ Fun fact **I can't speak Klingon!**
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=taruntomar122&show_icons=true" alt="taruntomar122" />
 <br>
 <p align="center">
