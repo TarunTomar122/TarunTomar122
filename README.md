@@ -7,13 +7,6 @@
 
 - I’m most probably working on **Something interesting :)**
 
-- My portfolio [http://home.iitj.ac.in/~tomar.4/](http://home.iitj.ac.in/~tomar.4/)
-
-- Ask me about **Anything but it depends if me would answer ye or not!**
-
-- Mail me at **tomartarun2001@gmail.com**
-
-- ⚡ Fun fact **I can't speak Klingon!**
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=taruntomar122&show_icons=true" alt="taruntomar122" />
 <br>
 <p align="center">
