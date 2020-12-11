@@ -13,4 +13,6 @@
 <a href="https://linkedin.com/in/tarun-tomar-4ab0b5193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tarun-tomar-4ab0b5193" height="30" width="30" /></a>
 <a href="https://fb.com/tarun.tomar.5891004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tarun.tomar.5891004" height="30" width="30" /></a>
 <a href="https://instagram.com/taru_122" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="taru_122" height="30" width="30" /></a>
+  <a href="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_GBiyyws0xKxXoE"> Pay here :)</a> 
 </p>
+
