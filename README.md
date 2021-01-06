@@ -2,7 +2,7 @@
 <h3 align="center">No Quarter!</h3>
 <br>
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<p align="center"> 
   **Insert some catchy Tech. Stacks here**
 </p>
 <h4 align="center">
