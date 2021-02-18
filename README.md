@@ -1,5 +1,4 @@
 <h1 align="center">Hey, It's me Tarun Tomar</h1>
-<br>
 
 <h4 align="center">
 - I’m most probably working on Something interesting.
