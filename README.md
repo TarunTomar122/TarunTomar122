@@ -1,28 +1,31 @@
 # Hey, I’m Tarun 👋
 
-I’m a software engineer who loves building **tools, apps, and experiments** that make life a little more fun and productive.  
-Currently working at **Adobe**.
+Design Engineer at Adobe, working on Spectrum 2.
+Outside work, I care about on-device AI, small models, and systems that don’t need the cloud to feel smart.
 
 ---
 
-## 🌱 What I’m up to
-- Building and launching small **AI-powered SaaS apps**
-- Exploring productivity, indie hacking, and the future of personal AI agents  
+## What I build
 
----
+- Mobile and web apps powered by LLMs (300+ users in production)
 
-## 💡 Things I like
-- Turning personal problems into apps (and sometimes into products)  
-- Design × Code crossover  
-- Sharing what I learn in public (#buildinpublic)  
+- Vision–language and RAG systems for real-world use
+
+- Design-system infrastructure used across multiple Adobe products
+
+## Recent work
+
+- Shipped a privacy-first mobile assistant using a 350M on-device model
+
+- Built vision-extended LLM prototypes with aggressive context compression
+
+- Migrated and scaled core web components across Adobe’s ecosystem 
 
 ---
 
 ## 🛠️ Tech I work with
-- **Frontend:** React, Next.js, Lit, Tailwind  
-- **Backend:** Node.js, Supabase, Firebase  
-- **AI/ML:** OpenAI API, HuggingFace, vector databases  
-- **Other:** TypeScript, Python, GitHub Actions  
+React, Lit, TypeScript, Node, Supabase
+Python, PyTorch, LoRA, RAG, vision–language models
 
 ---
 
