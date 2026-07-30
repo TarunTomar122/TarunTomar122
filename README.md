@@ -1,47 +1,16 @@
 # Hey, I'm Tarun 👋
 
-  Design Engineer at Adobe, moving to Edinburgh (Sep '26) for MSc AI.
+Pursuing an MSc in AI at UoE. Ex. Design Eng @Adobe
 
-  I build on-device AI systems, VLM architectures, and design infrastructure used across Adobe products. Builder
-first, researcher second.
+I build efficient AI systems and design infrastructure.
 
-  ---
+At Adobe, I led the Spectrum Web Components 2.0 migration across products including Firefly, Illustrator Web, and Adobe.com.
 
-  ## What I build
+Outside work, I built:
+- **Lumi** — a 350M on-device LLM for Android, <100ms inference, 400+ Play Store users
+- **NanoChat** — 64× visual-token compression for tiny LLM context
+- **YourTrace** and **StocksBrew** — small AI products people pay for
 
-  - **On-device AI** — Lumi, a 350M param LLM running <100ms on Android, 400+ users on Play Store
-  - **Vision–language systems** — NanoChat, 64× visual token compression for multimodal context extension
-  - **Design infrastructure** — Led Spectrum Web Components migration to 2.0, impacting Firefly, Illustrator Web,
-and Adobe.com
-  - **Products** — StocksBrew ($18/mo MRR), YourTrace ($28/mo MRR)
+I write at [tarat.space](https://tarat.space), make YouTube videos, and run stupidly long distances.
 
-  ## Recent work
-
-  - Shipped privacy-first on-device LLM for Android with LoRA fine-tuning
-  - Built vision–language prototype with aggressive context compression (got into target MSc program)
-  - Migrated core web components used by thousands of Adobe engineers
-
-  ---
-
-  ## 🛠️ Stack
-
-  **Frontend:** React, Lit, TypeScript, Web Components, Next.js
-  **Backend:** Node, Python, PostgreSQL, Supabase
-  **AI:** PyTorch, LoRA, RAG, vision–language models, on-device inference
-
-  ## Content
-
-  - **YouTube** (4.3K subs) — software engineering, AI, building products
-  - **Writing** — [tarat.space](https://tarat.space) — compression, on-device AI, shipping at scale
-
-  ---
-
-  ## 📬 Get in touch
-
-  - Twitter: [@tarat_211](https://x.com/tarat_211)
-  - LinkedIn: [tarun tomar](https://www.linkedin.com/in/tarun-tomar-4ab0b5193/)
-  - Digital garden: [tarat.space](https://www.tarat.space)
-
-  ---
-
-  ✨ Builder, runner (ultramarathons), always shipping.
+[Website](https://tarat.space) · [LinkedIn](https://www.linkedin.com/in/tarun-tomar-4ab0b5193/) · [X](https://x.com/tarat_211)
