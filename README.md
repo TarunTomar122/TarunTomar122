@@ -9,7 +9,7 @@ At Adobe, I led the Spectrum Web Components 2.0 migration across products includ
 Outside work, I built:
 - **Lumi** — a 350M on-device LLM for Android, <100ms inference, 400+ Play Store users
 - **NanoChat** — 64× visual-token compression for tiny LLM context
-- **YourTrace** and **StocksBrew** — small AI products people pay for
+- **Trace** and **StocksBrew** — small AI products people pay for
 
 I write at [tarat.space](https://tarat.space), make YouTube videos, and run stupidly long distances.
 
